@@ -1,10 +1,8 @@
 ---
-title: My First Post
-date: 2019-01-22 06:55:45 +0000
-
+title: "My First Post"
+date: 2019-01-23T09:51:28-08:00
 ---
-Hello
-==========
-I am just testing things out.  
 
-Thanks!
+Hello, world!
+========
+Everything is awesome.  
